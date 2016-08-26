@@ -1,0 +1,12 @@
+name: autoclean
+version: 0.0.1
+description: Kundenverzeichnis automatisch aufräumen
+
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+
+dependencies:
+  args: any
+  
+dev_dependencies:
+  test: '>=0.12.0 <0.13.0'

@@ -1,0 +1,3 @@
+# autoclean
+
+Kundenverzeichnis automatisch aufräumen
